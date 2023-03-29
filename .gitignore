@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.orig
+*.bak
+*.rej
+*~
+__pycache__/
+build/
+dist/
+tmp/
