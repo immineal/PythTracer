@@ -1,6 +1,6 @@
 # Pythtracer
 
-# W.I.P.
+# THIS PROJECT IS A W.I.P.
 
 Pythtracer is a Python pathtracer designed to render photorealistic images. It is a ray tracer built on the principles of global illumination, which means that it simulates how light behaves in a natural environment, taking into account the interaction of light with the environment and with objects in the scene. It can generate images with advanced lighting effects such as shadows, reflections, refractions, and ambient occlusion.
 
