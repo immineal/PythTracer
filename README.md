@@ -14,4 +14,4 @@ Pythtracer supports a wide range of features, including:
 - Imaging: Gamma Correction, Tone Mapping, Color Correction, and Film Grain
 - GUI: Render Window, Render Progress Bar, Render Preview Image, and Save Render Image
 
-Pythtracer is open source software released under the MIT License.
+Pythtracer is open source software released under the [MIT License](https://opensource.org/license/mit/).
